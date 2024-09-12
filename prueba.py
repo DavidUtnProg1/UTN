@@ -7,5 +7,5 @@ if a == "si":
 else:
    if a == "no":
        print("comprate pibe")
-   else:
-       print("🥚sanso comeme los huevardos🥚")
+else:
+print("cata chupame un huevo")
