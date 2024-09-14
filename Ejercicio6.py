@@ -1,0 +1,5 @@
+# Un pintor sabe que con una pintura determinada puede pintar 3,6 metros cuadrados por cada medio litro. Sabiendo la altura y el largo de la pared a pintar, informar cuántos litros de pintura utilizará. (Altura y Largo en metros)
+altura=float(input("inserte el valor en metros de la altura de la pared: "))
+largo=float(input("Ingrese el valor en metros del largo de la pared: "))
+area=float (altura*largo)
+print("ultilizara un total de", (area*0.5)/3.6, "litros de pintura" )
